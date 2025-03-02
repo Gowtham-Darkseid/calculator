@@ -8,23 +8,34 @@ A simple and functional calculator application built using Flutter. This app sup
 - Clean and user-friendly interface.
 - Responsive design for different screen sizes.
 
-## 🚀 Installation
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/Gowtham-Darkseid/calculator.git
-   \`\`\`
-2. Navigate to the project directory:
-   \`\`\`bash
-   cd calculator
-   \`\`\`
-3. Install dependencies:
-   \`\`\`bash
-   flutter pub get
-   \`\`\`
-4. Run the app on an emulator or connected device:
-   \`\`\`bash
-   flutter run
-   \`\`\`
+🚀 Installation
+Follow these steps to set up and run the project:
+
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Gowtham-Darkseid/calculator.git
+Navigate to the project directory:
+
+bash
+Copy
+Edit
+cd calculator
+Install dependencies:
+
+bash
+Copy
+Edit
+flutter pub get
+Run the app on an emulator or a connected device:
+
+bash
+Copy
+Edit
+flutter run
+
 
 ## 📷 Screenshots
 <img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="400" height="800">
