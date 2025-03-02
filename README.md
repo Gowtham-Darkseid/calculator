@@ -27,7 +27,7 @@ A simple and functional calculator application built using Flutter. This app sup
    \`\`\`
 
 ## 📷 Screenshots
-<img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="400" height="600">
+<img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="400" height="800">
 
 ## 🛠 Technologies Used
 - **Flutter** - UI Framework
