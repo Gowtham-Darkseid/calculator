@@ -31,7 +31,7 @@ Follow these steps to set up and run the project:
    ```bash
    flutter run
    ```
-```
+
 
 ## 📷 Screenshots
 <img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="400" height="800">
