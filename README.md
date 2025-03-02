@@ -34,7 +34,7 @@ Follow these steps to set up and run the project:
 
 
 ## 📷 Screenshots
-<img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="200" height="600">
+<img src="https://github.com/user-attachments/assets/b5e5f174-73e7-4ae7-8968-99b71044e372" width="200" height="400">
 
 ## 🛠 Technologies Used
 - **Flutter** - UI Framework
